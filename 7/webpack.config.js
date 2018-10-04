@@ -5,7 +5,7 @@ module.exports = {
   entry: './src/main.js',
   output: {
     path: path.resolve(__dirname, './dist'),
-    publicPath: '/6/vue-cli//dist/',
+    publicPath: '/7/dist/',
     filename: 'build.js'
   },
   module: {
